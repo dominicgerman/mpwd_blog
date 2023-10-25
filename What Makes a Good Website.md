@@ -6,6 +6,7 @@ author: Dominic German
 image: 
 tags:
 ---
+This is a test.
 Last spring, it became apparent that the boiler system that provides heat to our house needed to be repaired. I'm a decently handy guy so my initial reaction was to read up on boilers and find out if I could do the repair myself. Even though it seemed like an easy enough job, I decided to get a quote from a professional. Here's what happened next:
 
 1) I googled "mount prospect boiler repair"
